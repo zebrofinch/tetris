@@ -12,6 +12,8 @@
     "babel-register": "~6.26.0",
     "lodash": "~4.17.4",
     "mocha": "~4.0.0",
-    "node": "~8.3.0"
+    "node": "~8.3.0",
+    "chai": "~4.1.2",
+    "chai-change": "~2.1.2"
   }
 }
